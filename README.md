@@ -1,7 +1,7 @@
 # interfaces entregable 3
 ## resoluciones probadas
 * 1024x800
-* **1360x768 (preferencia) **
+* **1360x768 (preferencia)**
 * 1600x900
 
 ## navegadores probados:
